@@ -18,7 +18,7 @@ Logistic Regression is a classification algorithm that predicts the probability 
 
 ### 🔹 Breast Cancer Classification (KNN & SVM)
 This notebook applies **K-Nearest Neighbors (KNN)** and **Support Vector Machines (SVM)** to classify breast cancer cases.
-- 
+
 ### 🔹 Heart Disease Classification
 This notebook implements classification models to predict heart disease based on medical data.
 
